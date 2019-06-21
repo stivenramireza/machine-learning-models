@@ -19,4 +19,4 @@ Udemy course that contains differents machine learning models to implement in **
 
 - K-Means clustering.
 - Hierarchical clustering.
-- Density-based clustering
+- Density-based clustering.
