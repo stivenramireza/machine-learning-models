@@ -20,3 +20,8 @@ Cognitive Class course that contains differents machine learning models to imple
 - K-Means clustering.
 - Hierarchical clustering.
 - Density-based clustering.
+
+## 4. Recommender Systems
+
+- Content-based.
+- Collaborative filtering.
