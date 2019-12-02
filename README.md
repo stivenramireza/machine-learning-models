@@ -1,6 +1,6 @@
 # Machine Learning Models
 
-Udemy course that contains differents machine learning models to implement in **Python**.
+Cognitive Class course that contains differents machine learning models to implement in **Python**.
 
 ## 1. Regression
 
